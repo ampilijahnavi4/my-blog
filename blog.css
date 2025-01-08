@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    padding:20px;
+    font-family:inherit;
+}
+
+header{
+    color:firebrick;
+    text-align:center;
+    font-size:x-large;
+}
+
+main{
+    width :60%;
+    margin:0 auto;
+    text-align:center;
+}
+
+button{
+    margin-left:45%;
+    background-color:mediumvioletred;
+    padding:6px;
+}
+
+button a{
+    color:peachpuff;
+    text-decoration: none;
+    font-family:cursive;
+}
